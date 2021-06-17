@@ -1,5 +1,8 @@
 #!/bin/bash
-#Acest program redenumeste fisiere sau directoare (la alegerea utilizatorului) dintr-un director ales intr-o denumire aleasa de aceasta urmata de un index (exemplu: fisier1 fisier2), care incepe de la 1. Utilizatorul are posibilitatea sa specifice cate fisiere sau directoare sa fie modificate, daca acesta introduce "0", toate fisiere sau directoarele vor fi redenumite.
+#Acest program redenumeste fisiere sau directoare (la alegerea utilizatorului) dintr-un director ales 
+#intr-o denumire aleasa de aceasta urmata de un index (exemplu: fisier1 fisier2), care incepe de la 1. 
+#Utilizatorul are posibilitatea sa specifice cate fisiere sau directoare sa fie modificate, 
+#daca acesta introduce "0", toate fisiere sau directoarele vor fi redenumite.
 #Creat de Dănilă Daniel-Marian grupa 1014 pentru seminarul de Sisteme de Operare din data de 02.06.2021
 
 if [ $# -ne 4 ] 
